@@ -2,4 +2,5 @@ git init => to initialization git
 git add -A =>to add files to stagemedia
 git commit -m"your msg" => adding files to repository
 git status => listing all untracked files
-
+git remote add name path => to adding remote
+git push -u name master => push to master
